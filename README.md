@@ -5,6 +5,7 @@ personal list of online resources for learning
 * [DEV](https://dev.to/)
 * [HackerNoon](https://hackernoon.com/)
 
-## InfoSec
+## InfoSec/Privacy
 * [ThreatPost](https://threatpost.com/)
 * [DarkReading](https://www.darkreading.com/)
+* [Electronic Frontier Foundation](https://www.eff.org/)
